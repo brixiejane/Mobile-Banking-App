@@ -1,2 +1,2 @@
-# Smart-Home-System
-This system has voice control allowing older adults to manage their home devices without dealing with complex interfaces.
+# Mobile Banking App
+An accessible mobile banking app offering quick navigation, live voice control, and flexible settings to suit user preferences.
